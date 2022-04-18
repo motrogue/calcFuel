@@ -54,8 +54,8 @@ namespace Poklad
                 double fuel_cost = c_1 * a_1; //Выполняем вычисления
 
 
-                textBox4.Text = fuel_cons.ToString();
-                textBox5.Text = fuel_cost.ToString();
+                textBox4.Text = fuel_cons.ToString("0.00");
+                textBox5.Text = fuel_cost.ToString("0.00");
             }
         }
 
