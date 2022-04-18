@@ -12,8 +12,6 @@ namespace Poklad
 {
     public partial class Form1 : Form
     {
-        private double a_1;
-        private double b_1;
 
         public Form1()
         {

@@ -101,9 +101,9 @@ namespace Poklad
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(12, 89);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(252, 25);
+            this.label2.Size = new System.Drawing.Size(264, 25);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Пройденное состояние*";
+            this.label2.Text = "Пройденное расстояние*";
             // 
             // label3
             // 
